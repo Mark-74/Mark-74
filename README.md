@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently studying at ITT Blaise Pascal (FC)<br>🌱I'm currently learning C#, C++, Javascript and SQL.<br>🏆Olinfo and Olicyber partecipant.<br>✌I like to learn and I can work with everyone.
+📚 I'm currently studying at ITT Blaise Pascal (FC)<br>🌱I'm currently learning C#, C++, Javascript and Flutter.<br>🏆Olinfo and Olicyber partecipant.<br>✌I like to learn and I can work with everyone.
 
 
 ## 🌐 Socials:
