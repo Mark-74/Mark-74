@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently studying at ITT Blaise Pascal (FC)<br>🌱I'm currently learning everything I like.<br>🏆Olicyber bronze medal 🥉, Cyberchallenge Finalist @ Unibo, Olinfo Finalist.<br>✌I like to learn and I can work with everyone.
+📚 I'm currently studying at ITT Blaise Pascal (FC)<br>🌱I'm currently learning everything I like.<br>🏆Olicyber bronze medal 🥉, Cyberchallenge bronze medal 🥉 @ Unibo, Olinfo Finalist.<br>✌I like to learn and I can work with everyone.
 
 
 ## 🌐 Socials:
